@@ -1,4 +1,4 @@
-name: voila-hello-world-example
+name: app
 channels:
 - conda-forge
 dependencies:
